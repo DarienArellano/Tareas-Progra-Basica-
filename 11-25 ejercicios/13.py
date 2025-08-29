@@ -1,0 +1,6 @@
+nombre1= input("Ingrese su nombre:")
+nombre2= input("Ingrese su nombre:")
+nombre3= input("Ingrese su nombre:")
+print(f"Hola {nombre1}, un gusto conocerte")
+print(f"Hola {nombre2}, eres muy amable")
+print(f"Hola {nombre3}, espero que tengas un buen día")
